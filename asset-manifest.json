@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zeeshan-Shaikh-Portfolio/static/css/main.870ba0cc.css",
-    "main.js": "/Zeeshan-Shaikh-Portfolio/static/js/main.0735cbf8.js",
+    "main.css": "/Zeeshan-Shaikh-Portfolio/static/css/main.0c9a12de.css",
+    "main.js": "/Zeeshan-Shaikh-Portfolio/static/js/main.1dc8ab51.js",
     "static/js/453.91f87a97.chunk.js": "/Zeeshan-Shaikh-Portfolio/static/js/453.91f87a97.chunk.js",
     "static/media/pdf.worker.min.js": "/Zeeshan-Shaikh-Portfolio/static/media/pdf.worker.min.ef82ae05bf11867a6e93.js",
     "static/media/codeEditor.png": "/Zeeshan-Shaikh-Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
@@ -30,12 +30,12 @@
     "static/media/json-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/json-svgrepo-com.fe4dc801742a1a15b4e12bdb69a4f05e.svg",
     "static/media/css-3-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/css-3-svgrepo-com.315b8fdb9dbf75ae965b80bf368895cd.svg",
     "static/media/html-5-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
-    "main.870ba0cc.css.map": "/Zeeshan-Shaikh-Portfolio/static/css/main.870ba0cc.css.map",
-    "main.0735cbf8.js.map": "/Zeeshan-Shaikh-Portfolio/static/js/main.0735cbf8.js.map",
+    "main.0c9a12de.css.map": "/Zeeshan-Shaikh-Portfolio/static/css/main.0c9a12de.css.map",
+    "main.1dc8ab51.js.map": "/Zeeshan-Shaikh-Portfolio/static/js/main.1dc8ab51.js.map",
     "453.91f87a97.chunk.js.map": "/Zeeshan-Shaikh-Portfolio/static/js/453.91f87a97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.870ba0cc.css",
-    "static/js/main.0735cbf8.js"
+    "static/css/main.0c9a12de.css",
+    "static/js/main.1dc8ab51.js"
   ]
 }
