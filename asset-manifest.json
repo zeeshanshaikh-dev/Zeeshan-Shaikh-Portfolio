@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Zeeshan-Shaikh-Portfolio/static/css/main.870ba0cc.css",
+    "main.js": "/Zeeshan-Shaikh-Portfolio/static/js/main.8b8ad058.js",
+    "static/js/453.91f87a97.chunk.js": "/Zeeshan-Shaikh-Portfolio/static/js/453.91f87a97.chunk.js",
+    "static/media/pdf.worker.min.js": "/Zeeshan-Shaikh-Portfolio/static/media/pdf.worker.min.ef82ae05bf11867a6e93.js",
+    "static/media/codeEditor.png": "/Zeeshan-Shaikh-Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Zeeshan-Shaikh-Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Zeeshan-Shaikh-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Zeeshan-Shaikh-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Zeeshan-Shaikh-Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/postgresql-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/postgresql-svgrepo-com.96a994e221ae80ba127fa4f97df6c680.svg",
+    "static/media/avatar.svg": "/Zeeshan-Shaikh-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/jupyter-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/jupyter-svgrepo-com.8dddde02f71c3fd4e06b25c76f99c54b.svg",
+    "static/media/SQL.svg": "/Zeeshan-Shaikh-Portfolio/static/media/SQL.52fc098126b8b29ddd950a944b5d0026.svg",
+    "static/media/mysql-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/mysql-svgrepo-com.16c78b724e24683c37fde4358bd64086.svg",
+    "static/media/AWS.svg": "/Zeeshan-Shaikh-Portfolio/static/media/AWS.f12ad75c9817aebf73d32f167ea894de.svg",
+    "static/media/pycharm-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/pycharm-svgrepo-com.2c56efb6406e89743e2df8e7e9808149.svg",
+    "static/media/Postman.svg": "/Zeeshan-Shaikh-Portfolio/static/media/Postman.731600ddded53e009b672b2130661997.svg",
+    "static/media/vscode.svg": "/Zeeshan-Shaikh-Portfolio/static/media/vscode.01c32f3da6e0380beb0ed980549fa10d.svg",
+    "static/media/Python.svg": "/Zeeshan-Shaikh-Portfolio/static/media/Python.4c10e3e883c66039a07b3d1da3551107.svg",
+    "static/media/React.svg": "/Zeeshan-Shaikh-Portfolio/static/media/React.dab5e742691999bfe3df57d8d690607b.svg",
+    "static/media/github-color-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/github-color-svgrepo-com.e35c71752b296aa276f44b3be062ef25.svg",
+    "static/media/pre.svg": "/Zeeshan-Shaikh-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/Node.svg": "/Zeeshan-Shaikh-Portfolio/static/media/Node.066ea1a40c1c8f42c3facd6c4128111d.svg",
+    "index.html": "/Zeeshan-Shaikh-Portfolio/index.html",
+    "static/media/C++.svg": "/Zeeshan-Shaikh-Portfolio/static/media/C++.a87de30de97ce5ed259ace5ef23c7e91.svg",
+    "static/media/Javascript.svg": "/Zeeshan-Shaikh-Portfolio/static/media/Javascript.2d2e6d4fde8c0beaf89875c287164a7c.svg",
+    "static/media/Git.svg": "/Zeeshan-Shaikh-Portfolio/static/media/Git.9da88573cca3c97a3a1523ae09d93654.svg",
+    "static/media/json-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/json-svgrepo-com.fe4dc801742a1a15b4e12bdb69a4f05e.svg",
+    "static/media/css-3-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/css-3-svgrepo-com.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html-5-svgrepo-com.svg": "/Zeeshan-Shaikh-Portfolio/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "main.870ba0cc.css.map": "/Zeeshan-Shaikh-Portfolio/static/css/main.870ba0cc.css.map",
+    "main.8b8ad058.js.map": "/Zeeshan-Shaikh-Portfolio/static/js/main.8b8ad058.js.map",
+    "453.91f87a97.chunk.js.map": "/Zeeshan-Shaikh-Portfolio/static/js/453.91f87a97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.870ba0cc.css",
+    "static/js/main.8b8ad058.js"
+  ]
+}
