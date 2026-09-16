@@ -21,6 +21,9 @@ This portfolio is designed to present:
 - GitHub Calendar
 - React PDF
 
+## Github Pages
+- https://zeeshanshaikh-dev.github.io/Zeeshan-Shaikh-Portfolio/
+  
 ## Local Development
 
 1. Install dependencies:
